@@ -25,6 +25,10 @@ This project is a web-based application that provides real-time weather data and
 2. Run the app:
    python -m streamlit run app.py
 
+## How to implement
+1. Enter a valid city name and click the "Get Weather" button
+2. If it doesn't refresh the data, Enter "city, IN" and click the button again
+
 ## 📂 Project Structure
 - app.py
 - fetch.py
